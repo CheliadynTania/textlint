@@ -575,13 +575,7 @@ For more details, see [Contributing Guide](docs/CONTRIBUTING.md).
 
 ## License
 
-MIT © azu
-
-Copy some code from ESLint.
-
-    ESLint
-    Copyright (c) 2013 Nicholas C. Zakas. All rights reserved.
-    https://github.com/eslint/eslint/blob/master/LICENSE
+    license [https://github.com/eslint/eslint/blob/master/LICENSE]
 
 ## Logos & Icons
 
