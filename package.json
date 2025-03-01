@@ -63,5 +63,9 @@
     "test/*",
     "website"
   ],
-  "packageManager": "npm@9.9.2"
+  "packageManager": "npm@9.9.2",
+  "license":{
+    "name": "textlint",
+    "version": "1.0.0",
+    "license": "MIT"
 }
