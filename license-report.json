@@ -1,0 +1,1705 @@
+{
+  "@azu/format-text@1.0.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/azu/format-text",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@azu\\format-text",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@azu\\format-text\\README.md"
+  },
+  "@azu/style-format@1.0.1": {
+    "licenses": "WTFPL",
+    "repository": "https://github.com/azu/style-format",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@azu\\style-format",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@azu\\style-format\\LICENSE"
+  },
+  "@isaacs/cliui@8.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/yargs/cliui",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@isaacs\\cliui",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@isaacs\\cliui\\LICENSE.txt"
+  },
+  "@keyv/serialize@1.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredwray/keyv",
+    "publisher": "Jared Wray",
+    "email": "me@jaredwray.com",
+    "url": "https://jaredwray.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@keyv\\serialize",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@keyv\\serialize\\LICENSE"
+  },
+  "@pkgjs/parseargs@0.11.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/pkgjs/parseargs",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@pkgjs\\parseargs",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@pkgjs\\parseargs\\LICENSE"
+  },
+  "@textlint/ast-node-types@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\ast-node-types",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\ast-node-types\\LICENSE"
+  },
+  "@textlint/ast-tester@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\ast-tester",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\ast-tester\\LICENSE"
+  },
+  "@textlint/ast-traverse@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\ast-traverse",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\ast-traverse\\LICENSE"
+  },
+  "@textlint/config-loader@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\config-loader",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\config-loader\\LICENSE"
+  },
+  "@textlint/feature-flag@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\feature-flag",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\feature-flag\\LICENSE"
+  },
+  "@textlint/fixer-formatter@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\fixer-formatter",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\fixer-formatter\\LICENSE"
+  },
+  "@textlint/kernel@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\kernel",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\kernel\\LICENSE"
+  },
+  "@textlint/linter-formatter@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\linter-formatter",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\linter-formatter\\LICENSE"
+  },
+  "@textlint/markdown-to-ast@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\markdown-to-ast",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\markdown-to-ast\\LICENSE"
+  },
+  "@textlint/module-interop@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\module-interop",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\module-interop\\LICENSE"
+  },
+  "@textlint/resolver@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\resolver",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\resolver\\LICENSE"
+  },
+  "@textlint/source-code-fixer@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\source-code-fixer",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\source-code-fixer\\LICENSE"
+  },
+  "@textlint/text-to-ast@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\text-to-ast",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\text-to-ast\\LICENSE"
+  },
+  "@textlint/textlint-plugin-markdown@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\textlint-plugin-markdown",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\textlint-plugin-markdown\\LICENSE"
+  },
+  "@textlint/textlint-plugin-text@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\textlint-plugin-text",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\textlint-plugin-text\\LICENSE"
+  },
+  "@textlint/types@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\types",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\types\\LICENSE"
+  },
+  "@textlint/utils@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\utils",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@textlint\\utils\\LICENSE"
+  },
+  "@types/mdast@3.0.15": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@types\\mdast",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@types\\mdast\\LICENSE"
+  },
+  "@types/unist@2.0.11": {
+    "licenses": "MIT",
+    "repository": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@types\\unist",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@types\\unist\\LICENSE"
+  },
+  "ajv@8.17.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ajv-validator/ajv",
+    "publisher": "Evgeny Poberezkin",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\ajv",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\ajv\\LICENSE"
+  },
+  "ansi-regex@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\ansi-regex",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\ansi-regex\\license"
+  },
+  "ansi-regex@6.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@isaacs\\cliui\\node_modules\\ansi-regex",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@isaacs\\cliui\\node_modules\\ansi-regex\\license"
+  },
+  "ansi-styles@4.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-styles",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\ansi-styles",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\ansi-styles\\license"
+  },
+  "ansi-styles@6.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/ansi-styles",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\wrap-ansi\\node_modules\\ansi-styles",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\wrap-ansi\\node_modules\\ansi-styles\\license"
+  },
+  "argparse@1.0.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodeca/argparse",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\argparse",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\argparse\\LICENSE"
+  },
+  "argparse@2.0.1": {
+    "licenses": "Python-2.0",
+    "repository": "https://github.com/nodeca/argparse",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\rc-config-loader\\node_modules\\argparse",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\rc-config-loader\\node_modules\\argparse\\LICENSE"
+  },
+  "astral-regex@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kevva/astral-regex",
+    "publisher": "Kevin Mårtensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "github.com/kevva",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\astral-regex",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\astral-regex\\license"
+  },
+  "bail@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/bail",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\bail",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\bail\\license"
+  },
+  "balanced-match@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/balanced-match",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\balanced-match",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\balanced-match\\LICENSE.md"
+  },
+  "base64-js@1.5.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/beatgammit/base64-js",
+    "publisher": "T. Jameson Little",
+    "email": "t.jameson.little@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\base64-js",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\base64-js\\LICENSE"
+  },
+  "boundary@2.0.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/textlint/boundary",
+    "publisher": "Yusuke SUZUKI",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\boundary",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\boundary\\LICENSE.BSD"
+  },
+  "brace-expansion@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/juliangruber/brace-expansion",
+    "publisher": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\brace-expansion",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\brace-expansion\\LICENSE"
+  },
+  "buffer@6.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/buffer",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\buffer",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\buffer\\LICENSE"
+  },
+  "cacheable@1.8.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredwray/cacheable",
+    "publisher": "Jared Wray",
+    "email": "me@jaredwray.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\cacheable",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\cacheable\\LICENSE"
+  },
+  "ccount@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/ccount",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\ccount",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\ccount\\license"
+  },
+  "chalk@4.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/chalk",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\chalk",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\chalk\\license"
+  },
+  "character-entities-legacy@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/character-entities-legacy",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\character-entities-legacy",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\character-entities-legacy\\license"
+  },
+  "character-entities@1.2.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/character-entities",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\character-entities",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\character-entities\\license"
+  },
+  "character-reference-invalid@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/character-reference-invalid",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\character-reference-invalid",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\character-reference-invalid\\license"
+  },
+  "charenc@0.0.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/pvorb/node-charenc",
+    "publisher": "Paul Vorbach",
+    "email": "paul@vorb.de",
+    "url": "http://vorb.de",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\charenc",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\charenc\\LICENSE.mkd"
+  },
+  "color-convert@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Qix-/color-convert",
+    "publisher": "Heather Arthur",
+    "email": "fayearthur@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\color-convert",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\color-convert\\LICENSE"
+  },
+  "color-name@1.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/colorjs/color-name",
+    "publisher": "DY",
+    "email": "dfcreative@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\color-name",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\color-name\\LICENSE"
+  },
+  "cross-spawn@7.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/moxystudio/node-cross-spawn",
+    "publisher": "André Cruz",
+    "email": "andre@moxy.studio",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\cross-spawn",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\cross-spawn\\LICENSE"
+  },
+  "crypt@0.0.2": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/pvorb/node-crypt",
+    "publisher": "Paul Vorbach",
+    "email": "paul@vorb.de",
+    "url": "http://vorb.de",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\crypt",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\crypt\\LICENSE.mkd"
+  },
+  "debug@4.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/debug-js/debug",
+    "publisher": "Josh Junon",
+    "url": "https://github.com/qix-",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\debug",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\debug\\LICENSE"
+  },
+  "deep-is@0.1.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/thlorenz/deep-is",
+    "publisher": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\deep-is",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\deep-is\\LICENSE"
+  },
+  "diff@5.2.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/kpdecker/jsdiff",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\diff",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\diff\\LICENSE"
+  },
+  "eastasianwidth@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/komagata/eastasianwidth",
+    "publisher": "Masaki Komagata",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\eastasianwidth",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\eastasianwidth\\README.md"
+  },
+  "emoji-regex@8.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/emoji-regex",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\emoji-regex",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\emoji-regex\\LICENSE-MIT.txt"
+  },
+  "emoji-regex@9.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/mathiasbynens/emoji-regex",
+    "publisher": "Mathias Bynens",
+    "url": "https://mathiasbynens.be/",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@isaacs\\cliui\\node_modules\\emoji-regex",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@isaacs\\cliui\\node_modules\\emoji-regex\\LICENSE-MIT.txt"
+  },
+  "error-ex@1.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/qix-/node-error-ex",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\error-ex",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\error-ex\\LICENSE"
+  },
+  "escape-string-regexp@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/escape-string-regexp",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\escape-string-regexp",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\escape-string-regexp\\license"
+  },
+  "esprima@4.0.1": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/jquery/esprima",
+    "publisher": "Ariya Hidayat",
+    "email": "ariya.hidayat@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\esprima",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\esprima\\LICENSE.BSD"
+  },
+  "extend@3.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/justmoon/node-extend",
+    "publisher": "Stefan Thomas",
+    "email": "justmoon@members.fsf.org",
+    "url": "http://www.justmoon.net",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\extend",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\extend\\LICENSE"
+  },
+  "fast-deep-equal@3.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/fast-deep-equal",
+    "publisher": "Evgeny Poberezkin",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\fast-deep-equal",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\fast-deep-equal\\LICENSE"
+  },
+  "fast-equals@4.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/planttheidea/fast-equals",
+    "publisher": "tony_quetano@planttheidea.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\fast-equals",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\fast-equals\\LICENSE"
+  },
+  "fast-levenshtein@2.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/hiddentao/fast-levenshtein",
+    "publisher": "Ramesh Nair",
+    "email": "ram@hiddentao.com",
+    "url": "http://www.hiddentao.com/",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\fast-levenshtein",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\fast-levenshtein\\LICENSE.md"
+  },
+  "fast-uri@3.0.6": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/fastify/fast-uri",
+    "publisher": "Vincent Le Goff",
+    "email": "vince.legoff@gmail.com",
+    "url": "https://github.com/zekth",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\fast-uri",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\fast-uri\\LICENSE"
+  },
+  "fault@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/fault",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\fault",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\fault\\license"
+  },
+  "file-entry-cache@10.0.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredwray/cacheable",
+    "publisher": "Jared Wray",
+    "email": "me@jaredwray.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\file-entry-cache",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\file-entry-cache\\LICENSE"
+  },
+  "find-up@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/find-up",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\find-up",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\find-up\\license"
+  },
+  "flat-cache@6.1.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredwray/cacheable",
+    "publisher": "Jared Wray",
+    "email": "me@jaredwray.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\flat-cache",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\flat-cache\\LICENSE"
+  },
+  "flatted@3.3.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/WebReflection/flatted",
+    "publisher": "Andrea Giammarchi",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\flatted",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\flatted\\LICENSE"
+  },
+  "foreground-child@3.3.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/tapjs/foreground-child",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\foreground-child",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\foreground-child\\LICENSE"
+  },
+  "format@0.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/samsonjs/format",
+    "publisher": "Sami Samhuri",
+    "email": "sami@samhuri.net",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\format",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\format\\Readme.md"
+  },
+  "function-bind@1.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Raynos/function-bind",
+    "publisher": "Raynos",
+    "email": "raynos2@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\function-bind",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\function-bind\\LICENSE"
+  },
+  "get-stdin@5.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/get-stdin",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\get-stdin",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\get-stdin\\license"
+  },
+  "glob@10.4.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-glob",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "https://blog.izs.me/",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\glob",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\glob\\LICENSE"
+  },
+  "graceful-fs@4.2.11": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-graceful-fs",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\graceful-fs",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\graceful-fs\\LICENSE"
+  },
+  "has-flag@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/has-flag",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\has-flag",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\has-flag\\license"
+  },
+  "hasown@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/hasOwn",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\hasown",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\hasown\\LICENSE"
+  },
+  "hookified@1.7.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredwray/hookified",
+    "publisher": "Jared Wray",
+    "email": "me@jaredwray.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\hookified",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\hookified\\LICENSE"
+  },
+  "hosted-git-info@2.8.9": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/hosted-git-info",
+    "publisher": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "url": "http://re-becca.org",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\hosted-git-info",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\hosted-git-info\\LICENSE"
+  },
+  "ieee754@1.2.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/feross/ieee754",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\ieee754",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\ieee754\\LICENSE"
+  },
+  "is-alphabetical@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/is-alphabetical",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\is-alphabetical",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\is-alphabetical\\license"
+  },
+  "is-alphanumerical@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/is-alphanumerical",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\is-alphanumerical",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\is-alphanumerical\\license"
+  },
+  "is-arrayish@0.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/qix-/node-is-arrayish",
+    "publisher": "Qix",
+    "url": "http://github.com/qix-",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\is-arrayish",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\is-arrayish\\LICENSE"
+  },
+  "is-buffer@1.1.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/is-buffer",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "http://feross.org/",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\is-buffer",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\is-buffer\\LICENSE"
+  },
+  "is-buffer@2.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/feross/is-buffer",
+    "publisher": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\unified\\node_modules\\is-buffer",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\unified\\node_modules\\is-buffer\\LICENSE"
+  },
+  "is-core-module@2.16.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/is-core-module",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\is-core-module",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\is-core-module\\LICENSE"
+  },
+  "is-decimal@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/is-decimal",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\is-decimal",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\is-decimal\\license"
+  },
+  "is-fullwidth-code-point@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-fullwidth-code-point",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\is-fullwidth-code-point",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\is-fullwidth-code-point\\license"
+  },
+  "is-hexadecimal@1.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/is-hexadecimal",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\is-hexadecimal",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\is-hexadecimal\\license"
+  },
+  "is-plain-obj@2.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/is-plain-obj",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\is-plain-obj",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\is-plain-obj\\license"
+  },
+  "is-utf8@0.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wayfind/is-utf8",
+    "publisher": "wayfind",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\is-utf8",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\is-utf8\\LICENSE"
+  },
+  "isexe@2.0.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/isexe",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\isexe",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\isexe\\LICENSE"
+  },
+  "jackspeak@3.4.3": {
+    "licenses": "BlueOak-1.0.0",
+    "repository": "https://github.com/isaacs/jackspeak",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\jackspeak",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\jackspeak\\LICENSE.md"
+  },
+  "js-yaml@3.14.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodeca/js-yaml",
+    "publisher": "Vladimir Zapparov",
+    "email": "dervus.grim@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\js-yaml",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\js-yaml\\LICENSE"
+  },
+  "js-yaml@4.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/nodeca/js-yaml",
+    "publisher": "Vladimir Zapparov",
+    "email": "dervus.grim@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\rc-config-loader\\node_modules\\js-yaml",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\rc-config-loader\\node_modules\\js-yaml\\LICENSE"
+  },
+  "json-parse-better-errors@1.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/zkat/json-parse-better-errors",
+    "publisher": "Kat Marchán",
+    "email": "kzm@zkat.tech",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\json-parse-better-errors",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\json-parse-better-errors\\LICENSE.md"
+  },
+  "json-schema-traverse@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/epoberezkin/json-schema-traverse",
+    "publisher": "Evgeny Poberezkin",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\json-schema-traverse",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\json-schema-traverse\\LICENSE"
+  },
+  "json5@2.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/json5/json5",
+    "publisher": "Aseem Kishore",
+    "email": "aseem.kishore@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\json5",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\json5\\LICENSE.md"
+  },
+  "keyv@5.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jaredwray/keyv",
+    "publisher": "Jared Wray",
+    "email": "me@jaredwray.com",
+    "url": "http://jaredwray.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\keyv",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\keyv\\LICENSE"
+  },
+  "levn@0.4.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/levn",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\levn",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\levn\\LICENSE"
+  },
+  "load-json-file@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/load-json-file",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\load-json-file",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\load-json-file\\license"
+  },
+  "load-json-file@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/load-json-file",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\load-json-file",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\load-json-file\\license"
+  },
+  "locate-path@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/locate-path",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\locate-path",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\locate-path\\license"
+  },
+  "lodash.truncate@4.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\lodash.truncate",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\lodash.truncate\\LICENSE"
+  },
+  "lodash@4.17.21": {
+    "licenses": "MIT",
+    "repository": "https://github.com/lodash/lodash",
+    "publisher": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\lodash",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\lodash\\LICENSE"
+  },
+  "longest-streak@2.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/longest-streak",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\longest-streak",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\longest-streak\\license"
+  },
+  "lru-cache@10.4.3": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-lru-cache",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\lru-cache",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\lru-cache\\LICENSE"
+  },
+  "markdown-table@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/markdown-table",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\markdown-table",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\markdown-table\\license"
+  },
+  "md5@2.3.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/pvorb/node-md5",
+    "publisher": "Paul Vorbach",
+    "email": "paul@vorba.ch",
+    "url": "http://paul.vorba.ch",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\md5",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\md5\\LICENSE"
+  },
+  "mdast-util-find-and-replace@1.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/mdast-util-find-and-replace",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-find-and-replace",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-find-and-replace\\license"
+  },
+  "mdast-util-footnote@0.1.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/mdast-util-footnote",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-footnote",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-footnote\\license"
+  },
+  "mdast-util-from-markdown@0.8.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/mdast-util-from-markdown",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-from-markdown",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-from-markdown\\license"
+  },
+  "mdast-util-frontmatter@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/mdast-util-frontmatter",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-frontmatter",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-frontmatter\\license"
+  },
+  "mdast-util-gfm-autolink-literal@0.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/mdast-util-gfm-autolink-literal",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-gfm-autolink-literal",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-gfm-autolink-literal\\license"
+  },
+  "mdast-util-gfm-strikethrough@0.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/mdast-util-gfm-strikethrough",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-gfm-strikethrough",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-gfm-strikethrough\\license"
+  },
+  "mdast-util-gfm-table@0.1.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/mdast-util-gfm-table",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-gfm-table",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-gfm-table\\license"
+  },
+  "mdast-util-gfm-task-list-item@0.1.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/mdast-util-gfm-task-list-item",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-gfm-task-list-item",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-gfm-task-list-item\\license"
+  },
+  "mdast-util-gfm@0.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/mdast-util-gfm",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-gfm",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-gfm\\license"
+  },
+  "mdast-util-to-markdown@0.6.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/mdast-util-to-markdown",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-to-markdown",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-to-markdown\\license"
+  },
+  "mdast-util-to-string@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/mdast-util-to-string",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-to-string",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mdast-util-to-string\\license"
+  },
+  "micromark-extension-footnote@0.3.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromark/micromark-extension-footnote",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-footnote",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-footnote\\license"
+  },
+  "micromark-extension-frontmatter@0.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromark/micromark-extension-frontmatter",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-frontmatter",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-frontmatter\\license"
+  },
+  "micromark-extension-gfm-autolink-literal@0.5.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromark/micromark-extension-gfm-autolink-literal",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm-autolink-literal",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm-autolink-literal\\license"
+  },
+  "micromark-extension-gfm-strikethrough@0.6.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromark/micromark-extension-gfm-strikethrough",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm-strikethrough",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm-strikethrough\\license"
+  },
+  "micromark-extension-gfm-table@0.4.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromark/micromark-extension-gfm-table",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm-table",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm-table\\license"
+  },
+  "micromark-extension-gfm-tagfilter@0.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromark/micromark-extension-gfm-tagfilter",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm-tagfilter",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm-tagfilter\\license"
+  },
+  "micromark-extension-gfm-task-list-item@0.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromark/micromark-extension-gfm-task-list-item",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm-task-list-item",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm-task-list-item\\license"
+  },
+  "micromark-extension-gfm@0.3.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromark/micromark-extension-gfm",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\micromark-extension-gfm\\license"
+  },
+  "micromark@2.11.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/micromark/micromark",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\micromark",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\micromark\\license"
+  },
+  "minimatch@9.0.5": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minimatch",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\minimatch",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\minimatch\\LICENSE"
+  },
+  "minimist@1.2.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/minimistjs/minimist",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\minimist",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\minimist\\LICENSE"
+  },
+  "minipass@7.1.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/minipass",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\minipass",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\minipass\\LICENSE"
+  },
+  "mkdirp@0.5.6": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/node-mkdirp",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\mkdirp",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\mkdirp\\LICENSE"
+  },
+  "ms@2.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vercel/ms",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\ms",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\ms\\license.md"
+  },
+  "neotraverse@0.6.18": {
+    "licenses": "MIT",
+    "repository": "https://github.com/PuruVJ/neotraverse",
+    "publisher": "Puru Vijay, James Halliday",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\neotraverse",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\neotraverse\\LICENSE"
+  },
+  "normalize-package-data@2.5.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/npm/normalize-package-data",
+    "publisher": "Meryn Stol",
+    "email": "merynstol@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\normalize-package-data",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\normalize-package-data\\LICENSE"
+  },
+  "optionator@0.9.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/optionator",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\optionator",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\optionator\\LICENSE"
+  },
+  "p-limit@1.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/p-limit",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\p-limit",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\p-limit\\license"
+  },
+  "p-locate@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/p-locate",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\p-locate",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\p-locate\\license"
+  },
+  "p-try@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/p-try",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\p-try",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\p-try\\license"
+  },
+  "package-json-from-dist@1.0.1": {
+    "licenses": "BlueOak-1.0.0",
+    "repository": "https://github.com/isaacs/package-json-from-dist",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "https://izs.me",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\package-json-from-dist",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\package-json-from-dist\\LICENSE.md"
+  },
+  "parse-entities@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/parse-entities",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\parse-entities",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\parse-entities\\license"
+  },
+  "parse-json@2.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/parse-json",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\parse-json",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\parse-json\\license"
+  },
+  "parse-json@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/parse-json",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\parse-json",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\parse-json\\license"
+  },
+  "path-exists@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-exists",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\path-exists",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\path-exists\\license"
+  },
+  "path-key@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-key",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\path-key",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\path-key\\license"
+  },
+  "path-parse@1.0.7": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jbgutierrez/path-parse",
+    "publisher": "Javier Blanco",
+    "email": "http://jbgutierrez.info",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\path-parse",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\path-parse\\LICENSE"
+  },
+  "path-scurry@1.11.1": {
+    "licenses": "BlueOak-1.0.0",
+    "repository": "https://github.com/isaacs/path-scurry",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "https://blog.izs.me",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\path-scurry",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\path-scurry\\LICENSE.md"
+  },
+  "path-to-glob-pattern@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/azu/path-to-glob-pattern",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\path-to-glob-pattern",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\path-to-glob-pattern\\LICENSE"
+  },
+  "path-type@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-type",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\path-type",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\path-type\\license"
+  },
+  "path-type@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/path-type",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\path-type",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\path-type\\license"
+  },
+  "pify@2.3.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/pify",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\pify",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\pify\\license"
+  },
+  "pify@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/pify",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\pify",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\pify\\license"
+  },
+  "pinkie-promise@2.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/floatdrop/pinkie-promise",
+    "publisher": "Vsevolod Strukchinsky",
+    "email": "floatdrop@gmail.com",
+    "url": "github.com/floatdrop",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\pinkie-promise",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\pinkie-promise\\license"
+  },
+  "pinkie@2.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/floatdrop/pinkie",
+    "publisher": "Vsevolod Strukchinsky",
+    "email": "floatdrop@gmail.com",
+    "url": "github.com/floatdrop",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\pinkie",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\pinkie\\license"
+  },
+  "pluralize@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/blakeembrey/pluralize",
+    "publisher": "Blake Embrey",
+    "email": "hello@blakeembrey.com",
+    "url": "http://blakeembrey.me",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\pluralize",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\pluralize\\LICENSE"
+  },
+  "prelude-ls@1.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/prelude-ls",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\prelude-ls",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\prelude-ls\\LICENSE"
+  },
+  "rc-config-loader@4.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/azu/rc-config-loader",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\rc-config-loader",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\rc-config-loader\\LICENSE"
+  },
+  "read-pkg-up@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/read-pkg-up",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\license"
+  },
+  "read-pkg@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/read-pkg",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg\\license"
+  },
+  "read-pkg@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/read-pkg",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\read-pkg",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\read-pkg\\license"
+  },
+  "remark-footnotes@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remarkjs/remark-footnotes",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\remark-footnotes",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\remark-footnotes\\license"
+  },
+  "remark-frontmatter@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remarkjs/remark-frontmatter",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\remark-frontmatter",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\remark-frontmatter\\license"
+  },
+  "remark-gfm@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remarkjs/remark-gfm",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\remark-gfm",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\remark-gfm\\license"
+  },
+  "remark-parse@9.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/remarkjs/remark/tree/main/packages/remark-parse",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\remark-parse",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\remark-parse\\readme.md"
+  },
+  "repeat-string@1.6.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/repeat-string",
+    "publisher": "Jon Schlinkert",
+    "url": "http://github.com/jonschlinkert",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\repeat-string",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\repeat-string\\LICENSE"
+  },
+  "require-from-string@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/floatdrop/require-from-string",
+    "publisher": "Vsevolod Strukchinsky",
+    "email": "floatdrop@gmail.com",
+    "url": "github.com/floatdrop",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\require-from-string",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\require-from-string\\license"
+  },
+  "resolve@1.22.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/browserify/resolve",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\resolve",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\resolve\\LICENSE"
+  },
+  "semver@5.7.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/npm/node-semver",
+    "publisher": "GitHub Inc.",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\semver",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\semver\\LICENSE"
+  },
+  "shebang-command@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/kevva/shebang-command",
+    "publisher": "Kevin Mårtensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "github.com/kevva",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\shebang-command",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\shebang-command\\license"
+  },
+  "shebang-regex@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/shebang-regex",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\shebang-regex",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\shebang-regex\\license"
+  },
+  "signal-exit@4.1.0": {
+    "licenses": "ISC",
+    "repository": "https://github.com/tapjs/signal-exit",
+    "publisher": "Ben Coe",
+    "email": "ben@npmjs.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\signal-exit",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\signal-exit\\LICENSE.txt"
+  },
+  "slice-ansi@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/slice-ansi",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\slice-ansi",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\slice-ansi\\license"
+  },
+  "spdx-correct@3.2.0": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/jslicense/spdx-correct.js",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\spdx-correct",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\spdx-correct\\LICENSE"
+  },
+  "spdx-exceptions@2.5.0": {
+    "licenses": "CC-BY-3.0",
+    "repository": "https://github.com/kemitchell/spdx-exceptions.json",
+    "publisher": "The Linux Foundation",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\spdx-exceptions",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\spdx-exceptions\\README.md"
+  },
+  "spdx-expression-parse@3.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jslicense/spdx-expression-parse.js",
+    "publisher": "Kyle E. Mitchell",
+    "email": "kyle@kemitchell.com",
+    "url": "https://kemitchell.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\spdx-expression-parse",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\spdx-expression-parse\\LICENSE"
+  },
+  "spdx-license-ids@3.0.21": {
+    "licenses": "CC0-1.0",
+    "repository": "https://github.com/jslicense/spdx-license-ids",
+    "publisher": "Shinnosuke Watanabe",
+    "url": "https://github.com/shinnn",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\spdx-license-ids",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\spdx-license-ids\\README.md"
+  },
+  "sprintf-js@1.0.3": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/alexei/sprintf.js",
+    "publisher": "Alexandru Marasteanu",
+    "email": "hello@alexei.ro",
+    "url": "http://alexei.ro/",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\sprintf-js",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\sprintf-js\\LICENSE"
+  },
+  "string-width@4.2.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/string-width",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\string-width",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\string-width\\license"
+  },
+  "string-width@5.1.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/string-width",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@isaacs\\cliui\\node_modules\\string-width",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@isaacs\\cliui\\node_modules\\string-width\\license"
+  },
+  "strip-ansi@6.0.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/strip-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\strip-ansi",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\strip-ansi\\license"
+  },
+  "strip-ansi@7.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/strip-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\@isaacs\\cliui\\node_modules\\strip-ansi",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\@isaacs\\cliui\\node_modules\\strip-ansi\\license"
+  },
+  "strip-bom@2.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/strip-bom",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\strip-bom",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\strip-bom\\license"
+  },
+  "strip-bom@3.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/sindresorhus/strip-bom",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\strip-bom",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\read-pkg-up\\node_modules\\strip-bom\\license"
+  },
+  "structured-source@4.0.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/textlint/structured-source",
+    "publisher": "Yusuke SUZUKI",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\structured-source",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\structured-source\\LICENSE.BSD"
+  },
+  "supports-color@7.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/supports-color",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\supports-color",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\supports-color\\license"
+  },
+  "supports-preserve-symlinks-flag@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/inspect-js/node-supports-preserve-symlinks-flag",
+    "publisher": "Jordan Harband",
+    "email": "ljharb@gmail.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\supports-preserve-symlinks-flag",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\supports-preserve-symlinks-flag\\LICENSE"
+  },
+  "table@6.9.0": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/gajus/table",
+    "publisher": "Gajus Kuizinas",
+    "email": "gajus@gajus.com",
+    "url": "http://gajus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\table",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\table\\LICENSE"
+  },
+  "text-table@0.2.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/substack/text-table",
+    "publisher": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\text-table",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\text-table\\LICENSE"
+  },
+  "textlint@14.4.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/textlint/textlint",
+    "publisher": "azu",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\textlint",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\textlint\\LICENSE"
+  },
+  "trough@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/trough",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\trough",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\trough\\license"
+  },
+  "type-check@0.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/gkz/type-check",
+    "publisher": "George Zahariev",
+    "email": "z@georgezahariev.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\type-check",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\type-check\\LICENSE"
+  },
+  "unified@9.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/unifiedjs/unified",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\unified",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\unified\\license"
+  },
+  "unique-concat@0.2.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/thlorenz/unique-concat",
+    "publisher": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\unique-concat",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\unique-concat\\LICENSE"
+  },
+  "unist-util-is@4.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/unist-util-is",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\unist-util-is",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\unist-util-is\\license"
+  },
+  "unist-util-stringify-position@2.0.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/unist-util-stringify-position",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\unist-util-stringify-position",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\unist-util-stringify-position\\license"
+  },
+  "unist-util-visit-parents@3.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/syntax-tree/unist-util-visit-parents",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\unist-util-visit-parents",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\unist-util-visit-parents\\license"
+  },
+  "validate-npm-package-license@3.0.4": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/kemitchell/validate-npm-package-license.js",
+    "publisher": "Kyle E. Mitchell",
+    "email": "kyle@kemitchell.com",
+    "url": "https://kemitchell.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\validate-npm-package-license",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\validate-npm-package-license\\LICENSE"
+  },
+  "vfile-message@2.0.4": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vfile/vfile-message",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\vfile-message",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\vfile-message\\license"
+  },
+  "vfile@4.2.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vfile/vfile",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\vfile",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\vfile\\license"
+  },
+  "which@2.0.2": {
+    "licenses": "ISC",
+    "repository": "https://github.com/isaacs/node-which",
+    "publisher": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\which",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\which\\LICENSE"
+  },
+  "word-wrap@1.2.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jonschlinkert/word-wrap",
+    "publisher": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\word-wrap",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\word-wrap\\LICENSE"
+  },
+  "wrap-ansi@7.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/wrap-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\wrap-ansi-cjs",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\wrap-ansi-cjs\\license"
+  },
+  "wrap-ansi@8.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/chalk/wrap-ansi",
+    "publisher": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\wrap-ansi",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\wrap-ansi\\license"
+  },
+  "yui-lint@0.2.0": {
+    "licenses": "BSD",
+    "repository": "https://github.com/yui/yui-lint",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\yui-lint",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\yui-lint\\LICENSE"
+  },
+  "zwitch@1.0.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/wooorm/zwitch",
+    "publisher": "Titus Wormer",
+    "email": "tituswormer@gmail.com",
+    "url": "https://wooorm.com",
+    "path": "C:\\Users\\sofia\\foo\\node_modules\\zwitch",
+    "licenseFile": "C:\\Users\\sofia\\foo\\node_modules\\zwitch\\license"
+  }
+}
+
